@@ -1,0 +1,27 @@
+{
+  "name": "simple-guidjs",
+  "version": "0.0.1",
+  "description": "A simple GUID utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemuelmc/simple-guidjs.git"
+  },
+  "keywords": [
+    "simple",
+    "guid",
+    "utility"
+  ],
+  "author": "Lemuel Raganas <lemuel.raganas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemuelmc/simple-guidjs/issues"
+  },
+  "homepage": "https://github.com/lemuelmc/simple-guidjs#readme",
+  "dependencies": {
+    "simple-valjs": "0.0.1"
+  }
+}
